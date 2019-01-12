@@ -1,2 +1,2 @@
-# UploadFibitWeight
+# UploadWeight2Fitbit
 fitbitへ体重をアップロードする

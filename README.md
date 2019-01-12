@@ -14,7 +14,7 @@ fitbitへ体重をアップロードする
 　2. "PythonFitbit.py"を実行  
 　　→体重がfitbitへアップロードされる  
 
-※クライントID、シークレットの取得についてや、環境作成については以下を参照  
+※クライントID、シークレットの取得についてや、環境作成について私は以下を参照  
 https://pc.atsuhiro-me.net/entry/2014/05/07/022857
 
-当方はVisual Studio 2017にて作成
+私はVisual Studio 2017にて作成

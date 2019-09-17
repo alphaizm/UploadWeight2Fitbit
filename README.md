@@ -19,3 +19,9 @@ fitbitへ体重をアップロードする
 https://pc.atsuhiro-me.net/entry/2014/05/07/022857
 
 私はVisual Studio 2017にて作成
+
+------
+### Visual Stuido での環境インストール ###
+* pandas
+* CherryPy
+* 
